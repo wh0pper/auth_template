@@ -1,4 +1,5 @@
 # README
+A basic example for user authentication with admin priveleges using Devise in a Rails app.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
